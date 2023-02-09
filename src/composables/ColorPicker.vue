@@ -14,11 +14,11 @@
     <h1>Instructions</h1>
     There are 5 colors listed below. You have to pick the correct color.
     <ul>
-      <li>Select a color out of the color listed</li>
+      <li>Select a color out of the colors listed out</li>
       <li>Select by clicking on a particular color</li>
       <li>Computer pick one already</li>
-      <li>If what you picked matched what computer choose</li>
-      <li>Then you will get a congratulations message</li>
+      <li>If what you picked matched what computer choosed</li>
+      <li>You will get a congratulations message</li>
       <li>Otherwise you will try again !!!</li>
     </ul>
   </main>
