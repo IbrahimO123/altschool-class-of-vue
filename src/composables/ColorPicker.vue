@@ -59,6 +59,7 @@ main {
   width: 70vh;
   height: 70vh;
   display: flex;
+  color:#000;
   justify-content: center;
   align-items: center;
   flex-direction: column;
